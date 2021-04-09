@@ -1,2 +1,1 @@
-# tasca-java
-tasca-java
+Això es una prova de projecte colaboratiu. 

@@ -1,3 +1,4 @@
+cambiat
 package exercici_quatre;
 
 import java.io.*;
@@ -30,22 +31,6 @@ class lletra
 	}
 
 }
-
-public class exercici_quatre {
-	
-    public static int LLETRES_NUMBER=26;
-    public static String ABECEDARI="abcdefghijklmnopqrstuvwxyz";
-    public static ArrayList<lletra> lletres;
-
-     public static void inicialitza()
-	{
-    	 for (int i=0; i<LLETRES_NUMBER; i++) {
-    		 
-    		 lletra l=new lletra(ABECEDARI.charAt(i));
-    		 
-    		 lletres.add(l);
-    	 }
-	}
      
 
 	public static void incrementa(String cadena, char c, int i)

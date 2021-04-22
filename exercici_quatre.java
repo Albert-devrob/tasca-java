@@ -3,7 +3,7 @@ package exercici_quatre;
 
 import java.io.*;
 import java.util.ArrayList;
-
+// hola bryan
 class lletra
 {
 	private char id;
